@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+*.tar.gz
+node_modules/
+.openai
+
+# Keep original case-study Markdown private.
+*.md
+!README.md
